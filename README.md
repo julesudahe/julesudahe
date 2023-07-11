@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @julesudahe
-- 👀 I’m interested in pretty much anything that start with data; data science, data engineering, business intelligence, etc.
-- 🌱 I’m currently learning python and dbt
-- 💞️ I’m looking to collaborate on dbt
+- 👀 I’m interested in anything data; data science, data engineering, BI, ML, AI, etc.
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: udaheju@gmail.com
 
 <!---
